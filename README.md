@@ -16,4 +16,25 @@ That's it.
 
 --- 
 
-Index (TO BE DONE)
+**Goal:** Build a simple browser from scratch as a learning project.
+
+**Motivations:**
+- Learn how DNS, TCP, TLS, and HTTP(S) work in practice
+- Understand and build each layer: request > parse > render
+- Move beyond high-level frameworks to grasp fundamentals
+
+**Scope:**
+- No JS engine for now
+- Supports basic HTML and CSS parsing and rendering
+- CLI-based or minimalist GUI
+
+## 🧱 Modules
+
+- DNS resolver
+- TCP socket client
+- TLS handshake (optional at first)
+- HTTP client
+- HTML parser
+- CSS parser
+- DOM tree builder
+- Layout & render engine
