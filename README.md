@@ -8,6 +8,12 @@ I hope to learn, get involved in this process and try to understand how to build
 
 Hopefully, while writing how I did It, I will learn more and get more ideas in the process, even helping someone with the same desire to start a project like this, while also grasping on why stuff is done in the way it's done.
 
+At first, i've started documenting it on issues, but then, as stuff got BIG and too much to be handled there, I then migrated id tho the ``.md`` format and left all teh process in the folder /learning
+
 That's it.
 
-skip0s out.
+``skip0s logged out.``
+
+--- 
+
+Index (TO BE DONE)
