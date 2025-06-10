@@ -8,33 +8,10 @@ I hope to learn, get involved in this process and try to understand how to build
 
 Hopefully, while writing how I did It, I will learn more and get more ideas in the process, even helping someone with the same desire to start a project like this, while also grasping on why stuff is done in the way it's done.
 
-At first, i've started documenting it on issues, but then, as stuff got BIG and too much to be handled there, I then migrated id tho the ``.md`` format and left all teh process in the folder /learning
+At first, i've started documenting it on issues, but then, as stuff got BIG and too much to be handled there, I then migrated id tho the ``.md`` format and left all teh process in the folder /docs. So if you want to check progress and see what I've made so far, maybe it's a place that worths checking out.
 
 That's it.
 
 ``skip0s logged out.``
 
---- 
-
-**Goal:** Build a simple browser from scratch as a learning project.
-
-**Motivations:**
-- Learn how DNS, TCP, TLS, and HTTP(S) work in practice
-- Understand and build each layer: request > parse > render
-- Move beyond high-level frameworks to grasp fundamentals
-
-**Scope:**
-- No JS engine for now
-- Supports basic HTML and CSS parsing and rendering
-- CLI-based or minimalist GUI
-
-## 🧱 Modules
-
-- DNS resolver
-- TCP socket client
-- TLS handshake (optional at first)
-- HTTP client
-- HTML parser
-- CSS parser
-- DOM tree builder
-- Layout & render engine
+---
