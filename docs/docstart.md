@@ -28,7 +28,7 @@ A Web Browser could be divided into 7 smaller "components" if they could be call
 
 The plan is developing each step one-by-one, incrementing the browser like when bulding a puzzle.
 
-## [1. Networking](1-Network.md)
+## [1. Networking](1-network.md)
 - Resolve DNS names.
 - Establish TCP connections and perform the said "three‑way handshake".
 - Negotiate HTTPS via TLS/SSL (stack overflow told me to study the TLS handshake process and consider using an existing library for cryptography to avoid reinventing the wheel).
