@@ -28,12 +28,12 @@ A Web Browser could be divided into 7 smaller "components" if they could be call
 
 The plan is developing each step one-by-one, incrementing the browser like when bulding a puzzle.
 
-## [1. Networking](1-network.md)
+## [1. Networking](1-network.md) - Study complete, Awaiting programing
 - Resolve DNS names.
 - Establish TCP connections and perform the said "three‑way handshake".
 - Negotiate HTTPS via TLS/SSL (stack overflow told me to study the TLS handshake process and consider using an existing library for cryptography to avoid reinventing the wheel).
 
-## 2. HTTP Client
+## [2. HTTP Client?](2-client.md) - Study in progress
 
 - Write a simple client that can make HTTP(S) GET requests.
 - Download Oor cache the plain HTML recieved.
